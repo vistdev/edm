@@ -1,8 +1,11 @@
 # edm
-a bootstrap eDM template
+a minimal bootstrap eDM template
 
+> This is a education repository
+> Do not use for production purpose
 
-## licence
-CC BY-SA 4.0
-## author
+## Contributors
 vist gmbh
+
+## Licence
+CC BY-SA 4.0

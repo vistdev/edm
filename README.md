@@ -11,7 +11,8 @@ Get the repository from github
 `git clone https://github.com/vistdev/edm.git`
 
 ## Built with
-+ Html5
++ html5
++ css3
 
 ## Contributors
 vist gmbh

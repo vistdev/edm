@@ -16,6 +16,14 @@ Get the repository from github
 + gulp
 + npm
 
+## Node.js
+If you want to use the gulp build process you’ll need to install node.js first. Go to https://nodejs.org and install the JavaScript runtime.
+
+## npm (node package manager)
+Install the npm dependencies with
+```javascript
+npm install --save-dev
+```
 ## Gulp
 
 ### Gulp workflow

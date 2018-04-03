@@ -1,21 +1,62 @@
 <!DOCTYPE html>
-<html lang="{{lang}}">
+<html lang="de">
+  <head>
+    <title>Newsletter</title>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta charset="utf-8">
+    <meta name="keywords" content="{{}}">
+    <meta name="description" content="{{}}">
+    <meta name="publisher" content="vist">
 
-<head>
-  <title>{{foo}}</title>
-  <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0">
-  <meta charset="utf-8">
-  <meta name="keywords" content="{{}}">
-  <meta name="description" content="{{}}">
-  <meta name="publisher" content="vist">
+    <!-- smoosh -->
+    <link rel="stylesheet" href="./css/ui.min.css">
+    <!-- endsmoosh -->
 
-  <style>{{line style}}</style>
-
-</head>
-
-<body>
-
-</body>
-  <script src="{{url}}"></script>
+  </head>
+  <body>
+    <table class="canvas">
+      <tr>
+        <td>
+        <table class="brd">
+          <tr>
+            <td>
+              <!-- header -->
+                  <table class="content">
+                    <tr>
+                      <td><img src="./header.png" alt="" /></td>
+                    </tr>
+                  </table>
+              <!-- header -->
+              <!-- hero -->
+                  <table class="content">
+                    <tr>
+                      <td><img src="./hero.jpg" alt="" /></td>
+                    </tr>
+                  </table>
+              <!-- hero -->
+              <!-- text -->
+                  <table class="content txt">
+                    <tr>
+                      <td>{Anrede} Müster</td>
+                    </tr>
+                    <tr>
+                      <td>{Text}</td>
+                    </tr>
+                  </table>
+              <!-- text -->
+              <!-- text -->
+                  <table class="content txt">
+                    <tr>
+                      <td>{Abbinder}</td>
+                    </tr>
+                  </table>
+              <!-- text -->
+            </td>
+          </tr>
+        </table>
+        </td>
+      </tr>
+    </table>
+  </body>
 </html>

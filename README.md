@@ -16,15 +16,16 @@ Get the repository from github
 + gulp
 + npm
 
+## Gulp
 
-## gulp workflow
+### Gulp workflow
 ```javascript
 gulp
 ```
 run gulp for dev mode
 
 
-## gulp build process
+# ## Gulp build process
 ```javascript
 gulp build
 ```

@@ -18,13 +18,17 @@ Get the repository from github
 
 
 ## gulp workflow
-run gulp
-    for dev mode
+```javascript
+gulp
+```
+run gulp for dev mode
+
 
 ## gulp build process
-run gulp build
-    for build process
-    gulp build > optimises the html file in the ./dist/ folder
+```javascript
+gulp build
+```
+run gulp build for build process, gulp build > optimises the html file in the ./dist/ folder
 
 ## Contributors
 vist gmbh

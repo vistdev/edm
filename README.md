@@ -25,7 +25,7 @@ gulp
 run gulp for dev mode
 
 
-# ## Gulp build process
+### Gulp build process
 ```javascript
 gulp build
 ```

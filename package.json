@@ -1,0 +1,28 @@
+{
+	"name": "eDM",
+	"description": "A html newsletter bootstrap",
+	"version": "0.2"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/vistdev/edm"
+	},
+  "author": "vistdev",
+  "license": "CC BY-SA 4.0",
+  "bugs": {
+   "url": "https://github.com/vistdev/edm/issues"
+ },
+	"homepage": "https://github.com/vistdev/edm",
+	"devDependencies": {
+		"gulp": "^3.9.1",
+		"gulp-rename": "^1.2.2",
+    "gulp-autoprefixer": "^3.1.1",
+    "gulp-cssmin": "^0.1.7",
+    "gulp-concat": "^2.6.0",
+    "gulp-uglify": "^2.0.0",
+    "gulp-add-src": "^0.2.0",
+    "gulp-htmlmin": "^4.0.0",
+    "gulp-smoosher": "^0.0.9",
+    "gulp-watch": "^4.3.10",
+	}
+}
